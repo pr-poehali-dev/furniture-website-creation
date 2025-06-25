@@ -64,7 +64,7 @@ const Hero = () => {
                 <Icon name="Clock" className="text-purple-600" size={24} />
               </div>
               <h3 className="text-lg font-semibold text-slate-800 mb-2">
-                15 лет опыта
+                25 лет опыта
               </h3>
               <p className="text-slate-600">
                 Проверенный временем профессионализм

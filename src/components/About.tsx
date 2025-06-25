@@ -28,7 +28,7 @@ const About = () => {
               О нашей компании
             </h2>
             <p className="text-lg text-slate-600 mb-6 leading-relaxed">
-              Уже 15 лет мы создаём мебель, которая становится сердцем дома.
+              Уже 25 лет мы создаём мебель, которая становится сердцем дома.
               Наша философия проста: каждое изделие должно быть не просто
               красивым, а идеально подходить своему владельцу.
             </p>
@@ -47,7 +47,7 @@ const About = () => {
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-purple-600 mb-2">
-                  15
+                  25
                 </div>
                 <div className="text-slate-600">Лет опыта</div>
               </div>
